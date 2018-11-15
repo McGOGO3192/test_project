@@ -7,3 +7,6 @@ master branch :
 
 develop branch :
 在開發線上測試看看。
+
+現在我在本地開發，然後同步remote那邊有更改東西
+看看現在push 會怎麼樣
