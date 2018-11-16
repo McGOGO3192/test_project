@@ -5,8 +5,6 @@ master branch :
 
 - 現在使用 https 上傳試試看。
 
-- 這邊產生一點衝突感
-
 develop branch :
 
-現在只在 Terminal 這邊加上一行
+現在再次測試一下，Terminal 更改東西。
